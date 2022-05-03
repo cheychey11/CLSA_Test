@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ea566acd-4935-4538-9b8c-58b0ac4274c6": {
+      "ProjectGuid": "ea566acd-4935-4538-9b8c-58b0ac4274c6",
+      "DisplayName": "CLSA_Test",
+      "ColorIndex": 0
+    },
+    "d3cb89c0-c79e-4026-93d1-9b478248c5a8": {
+      "ProjectGuid": "d3cb89c0-c79e-4026-93d1-9b478248c5a8",
+      "DisplayName": "CLSA_Test2",
+      "ColorIndex": 1
+    },
+    "9d0e5c5b-b600-47e7-a8a4-3bfb0dea490b": {
+      "ProjectGuid": "9d0e5c5b-b600-47e7-a8a4-3bfb0dea490b",
+      "DisplayName": "CLSA_Testing_Evaluation",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

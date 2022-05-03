@@ -1,0 +1,5 @@
+﻿[STAThread]
+static void Main()
+{
+    
+}
